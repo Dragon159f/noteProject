@@ -1,0 +1,37 @@
+.bold{
+    font-weight: bold;
+}
+.card-header{
+    background-color: white;
+}
+#splitter{
+    margin-top: 30px;
+    font-family: 'Calibri' ; 
+    /*'Roboto Regular', 'Roboto'; */
+    /* font-family: 'Arial'; */
+    font-weight: 700;
+    font-style: normal;
+    line-height: 14px;
+    font-size: 14px;
+    color: #666666;
+}
+hr{
+    border: 0;
+    height: 1px;
+    background: #333;
+    background-image: linear-gradient(to right, #ccc, #333, #ccc);
+}
+.pValueFont{
+    font-family: 'Calibri' ;
+    /* 'Roboto Regular', 'Roboto'; */
+    /* font-family: 'Arial'; */
+    font-weight: 400;
+    font-style: normal;
+    line-height: 14px;
+    font-size: 14px;
+    color: #666666;
+    }
+textarea{
+    resize: none;
+    height: 100px;
+}
